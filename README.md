@@ -17,11 +17,17 @@ https://codesandbox.io/s/compassionate-rui-7nvkmc?file=/src/App.js
 Topics:
 
 - Form validation
-- Axios
+  
 - Redux
 - AuthContext
 - useReducer
 - CRUD app
+
+
+- Axios
 - dynamic routing
+    dynamic-routing-with-axios.zip
+    
+Task from dynamic routing:
 - product / product detail and add to cart task.
 
