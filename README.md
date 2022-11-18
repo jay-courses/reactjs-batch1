@@ -23,11 +23,16 @@ Topics:
 - useReducer
 - CRUD app
 
+----------------------------------------------------------
 
 - Axios
+
 - dynamic routing
-    dynamic-routing-with-axios.zip
-    
+
+    -- dynamic-routing-with-axios.zip
+  
+----------------------------------------------------------
+  
 Task from dynamic routing:
 - product / product detail and add to cart task.
 
