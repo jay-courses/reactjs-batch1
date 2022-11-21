@@ -133,25 +133,11 @@ https://codesandbox.io/s/compassionate-rui-7nvkmc?file=/src/App.js
 
 Topics:
 
-- Form validation
-  
-- Redux
-
-----------------------------------------------------------
-
-- AuthContext
-
-  https://codesandbox.io/embed/authentication-with-react-context-d3x0r
-
-----------------------------------------------------------
+  ----------------------------------------------------------
 
 - useReducer
-
+- refer useReducer-diagram.svg
 https://codesandbox.io/s/dreamy-robinson-n4qfhi?file=/src/App.js
-
-----------------------------------------------------------
-
-- CRUD app
 
 ----------------------------------------------------------
 
@@ -164,6 +150,26 @@ https://codesandbox.io/s/dreamy-robinson-n4qfhi?file=/src/App.js
     -- dynamic-routing-with-axios.zip
   
 ----------------------------------------------------------
+  
+- CRUD app
+
+----------------------------------------------------------
+
+- Form validation
+  
+----------------------------------------------------------
+
+- Redux
+
+----------------------------------------------------------
+
+- AuthContext
+
+  https://codesandbox.io/embed/authentication-with-react-context-d3x0r
+
+  
+----------------------------------------------------------
+
   
 Task from dynamic routing:
 - product / product detail and add to cart task.
