@@ -145,19 +145,17 @@ https://codesandbox.io/s/dreamy-robinson-n4qfhi?file=/src/App.js
 
   -- axios-with-react.js.zip
 
+----------------------------------------------------------
+
 - dynamic routing
 
     -- dynamic-routing-with-axios.zip
   
 ----------------------------------------------------------
   
-- CRUD app
-
-----------------------------------------------------------
-
-- Form validation
-  
-----------------------------------------------------------
+- Fragments
+- Portals
+- CSS Modules
 
 - Redux
 
@@ -170,7 +168,6 @@ https://codesandbox.io/s/dreamy-robinson-n4qfhi?file=/src/App.js
   
 ----------------------------------------------------------
 
-  
-Task from dynamic routing:
-- product / product detail and add to cart task.
+Practice Task:
+Ecommerce App
 
