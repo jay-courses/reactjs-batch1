@@ -150,12 +150,21 @@ https://codesandbox.io/s/dreamy-robinson-n4qfhi?file=/src/App.js
 - dynamic routing
 
     -- dynamic-routing-with-axios.zip
-  
+
+    //The useParams hook returns an object of key/value pairs of the dynamic params from the current URL that were matched by the <Route path>
+    //The useNavigate hook returns a function that lets you navigate programmatically
+
 ----------------------------------------------------------
   
-- Fragments
+- Fragments and - CSS Modules
+  
+  fragment-and-modules.zip
+
 - Portals
-- CSS Modules
+
+    portals.zip
+
+
 
 - Redux
 
