@@ -168,8 +168,12 @@ https://codesandbox.io/s/dreamy-robinson-n4qfhi?file=/src/App.js
 
 - Redux
 
-  redux.zip
-  redux-diagram.png
+  redux.zip 
+  
+  redux-diagram.png 
+  
+  redux-architecture.svg
+  
 ----------------------------------------------------------
 
 - AuthContext
