@@ -169,6 +169,7 @@ https://codesandbox.io/s/dreamy-robinson-n4qfhi?file=/src/App.js
 - Redux
 
   redux.zip
+  redux-diagram.png
 ----------------------------------------------------------
 
 - AuthContext
