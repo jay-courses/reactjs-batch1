@@ -174,6 +174,8 @@ https://codesandbox.io/s/dreamy-robinson-n4qfhi?file=/src/App.js
   
   redux-architecture.svg
   
+  - Deploy and lazy loading
+  
 ----------------------------------------------------------
 
 - AuthContext
