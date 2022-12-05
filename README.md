@@ -163,6 +163,8 @@ https://codesandbox.io/s/dreamy-robinson-n4qfhi?file=/src/App.js
 - Portals
 
     portals.zip
+    
+    portals-with-menu.zip
 
 
 
@@ -174,8 +176,15 @@ https://codesandbox.io/s/dreamy-robinson-n4qfhi?file=/src/App.js
   
   redux-architecture.svg
   
-  - Deploy and lazy loading
+
+- Deploy and lazy loading
+
+  dynamic-routing-with-axios-lazy-loading.zip
   
+  
+  
+  
+
 ----------------------------------------------------------
 
 - AuthContext
@@ -187,4 +196,7 @@ https://codesandbox.io/s/dreamy-robinson-n4qfhi?file=/src/App.js
 
 Practice Task:
 Ecommerce App
+
+  - ecommerce-app.zip
+
 
