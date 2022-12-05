@@ -17,14 +17,14 @@
 - Components props
 - New component live example
 
-
+11 oct
 7 to 8
 - React app revison with nested components
 - Passing data between components
 - ES6 concepts of arrow function, destructiong, spread operator, ternary operators
 - New task assigned
 
-
+13 oct
 7 to 8
 - React events
 - React listing with .map
@@ -32,7 +32,7 @@
 - React useState hook
 - Task assigned
 
-
+14 oct
 6 to 7
 - External data file for react js
 - Virtual dom live example
@@ -40,7 +40,7 @@
 - useState as object
 - Multi useStates
 
-
+15 oct
 7 to 8
 - React useState in depth example
 - Mult useState updation with object mapping
@@ -50,7 +50,7 @@
 - React public and restricted routing example
 
 
-
+21 oct
 7 to 8
 - React lifting state up concept
 - React passing data from child component to parent component
@@ -59,24 +59,25 @@
 
 
 
-
+3 nov
 7 to 8
 - React useState revison
 - React useEffect hook with examples and fetch api
 
+4 nov
 7 to 8
 - Nested components revison
 - useContext hook with examples
 - Task assigned
 
-
+9 nov
 7 to 8
 - React Memo
 - useMemo react hook
 - Live examples and usage application
 
 
-
+11 nov
 7 to 8
 - useMemo revison with example
 - difference between useMemo and useCallback
@@ -85,11 +86,9 @@
 - useFetch custom hook example with using useEffect, useState and JS fetch api.
 
 
-
+14 nov
 7 to 8
-
 - Check 14-11-22.zip
-
 - Revison of all hooks
 - useState
 - useEffect
@@ -101,17 +100,56 @@
 - Blog display from json api
 
 
-
+16 nov
 7 to 8
-
 - Check 14-11-22.zip
-
 - useRef 
 - Need of useRef
 - useRef vs useState
 - useRef live examples
 - Install packages using command and as dependency in package.json
 - Bootstrap and react-bootstrap packages with examples
+
+21 nov
+7 to 8
+- useReducer live example
+- React Bootstrap package installation
+- React Fontawesome package installation
+
+23 nov
+5 to 6
+- React axios package with live examples
+- Get
+- Post
+- Put
+- Error handling
+- Delete
+- Async and await
+
+28 nov
+5 to 6
+- React fragments
+- React CSS module
+- React dynamic routing with axios
+- useParams
+- useNavigate
+
+30 nov
+5 to 6
+- Redux concept
+- Redux vs useContext
+- Similarity of redux with useReducer
+- Redux example
+- Redux with useState as dynamic variable input
+
+2 dec
+5 to 6
+- React portals with modal example
+- React side menu with portals live example
+
+5 dec
+- deploy and lazy loading
+- ecommerce-app.zip for practice
 
 
 ----------------------------------------------------------
@@ -168,6 +206,8 @@ https://codesandbox.io/s/dreamy-robinson-n4qfhi?file=/src/App.js
 
 
 
+----------------------------------------------------------
+
 - Redux
 
   redux.zip 
@@ -177,6 +217,8 @@ https://codesandbox.io/s/dreamy-robinson-n4qfhi?file=/src/App.js
   redux-architecture.svg
   
 
+
+----------------------------------------------------------
 - Deploy and lazy loading
 
   dynamic-routing-with-axios-lazy-loading.zip
